@@ -28,12 +28,12 @@ Together with the **KOBIS AI Prodigy Team**, I lead solution architecture, stake
 
 | Platform | Outcome & Capabilities | Evidence |
 |---|---|---|
-| **Programme Management PULSE** | Multi-provider coordination covering participants, attendance, evidence, certification, claims and management reporting | Concept case study |
-| **KOBIS Connect CRM** | Contacts, companies, follow-ups, dashboards, spreadsheet onboarding and shared Supabase mode | [Repository](https://github.com/zaiwin-lab/MVP-CRM) · [Live demo](https://kobis-connect.netlify.app) |
-| **Digital Heritage Platform** | Bilingual publishing with source controls, consent review, accessibility and media optimisation | [Repository](https://github.com/zaiwin-lab/MVP-DBAK) · [Live platform](https://dbaksarawak.org) |
-| **River Rehabilitation Impact Platform** | Intervention planning, field evidence, monitoring, community participation and impact reporting | [Live demo](https://sungai-revive.netlify.app) |
-| **Training Journey Platform** | Eligibility, applications, multilingual journeys, participant access and management reporting | [Repository](https://github.com/zaiwin-lab/MVP-ZK30) · [Live demo](https://zk30-mfdb.netlify.app) |
-| **Digital Launch Hub** | Reusable delivery patterns, multi-site coordination and rapid prototype operations | [Repository](https://github.com/zaiwin-lab/MasterHub) · [Live demo](https://masterhub-client-portal.netlify.app) |
+| **Executive 7-Lens Proposal Assessor** | Explainable 100-point proposal-readiness assessment through CIO, CFO, CTO, COO, CSO, CRO and CMO perspectives | [Repository](https://github.com/zaiwin-lab/Prop-Asessor) · [Live demo](https://prop7cq.netlify.app) |
+| **Syahlan Digital Web Builder** | Multilingual website-service journey designed to help entrepreneurs and organisations establish a professional digital presence | [Repository](https://github.com/zaiwin-lab/KDP-Shazlan) · [Live platform](https://syahlansdc.com) |
+| **KAPT Digital Clinic** | Organisational challenge intake, human-reviewed digital diagnosis and internal case-management workflow | [Repository](https://github.com/zaiwin-lab/MVP-AI-Tester) · [Live demo](https://kapt-digital-clinic.netlify.app) |
+| **Spinify Engagement Platform** | QR-led customer capture, rewards, repeat-visit journeys, campaign concepts and owner insights | [Repository](https://github.com/zaiwin-lab/KBT-Spinify) · [Live demo](https://kbt-spinify.netlify.app) |
+| **VDP Training Journey Guide** | QR attendance, participant profiles, readiness assessment, learning resources, action plans and supervisor reporting | [Repository](https://github.com/zaiwin-lab/MVP-EVOS-Mara) · [Live platform](https://kbtmaravdp.uk) |
+| **Property Concierge Platform** | Curated property discovery, affordability and ROI tools, appointment journeys and AI-assisted guidance | [Repository](https://github.com/zaiwin-lab/MVP-Property) · [Live demo](https://mvp-property.netlify.app) |
 
 _All links were verified against current Netlify deployments on 2 August 2026._
 
