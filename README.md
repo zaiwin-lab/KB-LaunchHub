@@ -26,14 +26,16 @@ Together with the **KOBIS AI Prodigy Team**, I lead solution architecture, stake
 
 ## Selected Work
 
-| Platform | Purpose | Key Capabilities |
+| Platform | Outcome & Capabilities | Evidence |
 |---|---|---|
-| **Programme Management PULSE** | End-to-end programme coordination concept | Provider workflows, participant tracking, attendance, evidence, certification, claims and management reporting |
-| **[KOBIS Connect CRM](https://github.com/zaiwin-lab/MVP-CRM)** | Practical relationship and follow-up management | Contacts, companies, tasks, dashboards, CSV/Excel import and Supabase |
-| **[Digital Heritage Platform](https://github.com/zaiwin-lab/MVP-DBAK)** | Responsible preservation of community history | Bilingual content, source controls, privacy review, accessibility and media optimisation |
-| **River Rehabilitation Impact Platform** | Community environmental programme concept | Intervention planning, location monitoring, evidence, awareness and impact reporting |
-| **[Training Journey Platform](https://github.com/zaiwin-lab/MVP-ZK30)** | Participant recruitment and programme operations | Eligibility, applications, multilingual journeys, role-based portals and reporting |
-| **EventOS — Attendify** | Reusable participant experience platform | QR check-in, assessments, resources, action plans and event dashboards |
+| **Programme Management PULSE** | Multi-provider coordination covering participants, attendance, evidence, certification, claims and management reporting | Concept case study |
+| **KOBIS Connect CRM** | Contacts, companies, follow-ups, dashboards, spreadsheet onboarding and shared Supabase mode | [Repository](https://github.com/zaiwin-lab/MVP-CRM) · [Live demo](https://kobis-connect.netlify.app) |
+| **Digital Heritage Platform** | Bilingual publishing with source controls, consent review, accessibility and media optimisation | [Repository](https://github.com/zaiwin-lab/MVP-DBAK) · [Live platform](https://dbaksarawak.org) |
+| **River Rehabilitation Impact Platform** | Intervention planning, field evidence, monitoring, community participation and impact reporting | [Live demo](https://sungai-revive.netlify.app) |
+| **Training Journey Platform** | Eligibility, applications, multilingual journeys, participant access and management reporting | [Repository](https://github.com/zaiwin-lab/MVP-ZK30) · [Live demo](https://zk30-mfdb.netlify.app) |
+| **Digital Launch Hub** | Reusable delivery patterns, multi-site coordination and rapid prototype operations | [Repository](https://github.com/zaiwin-lab/MasterHub) · [Live demo](https://masterhub-client-portal.netlify.app) |
+
+_All links were verified against current Netlify deployments on 2 August 2026._
 
 ## Technology & Delivery Stack
 
