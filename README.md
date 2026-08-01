@@ -1,4 +1,4 @@
-# Ts Ahmad Zaiwin bin Mohd Kassim
+# Ts Zaiwin Kassim
 
 ### AI-Enabled Digital Product Strategist · Programme Innovation Lead · Rapid MVP Builder
 
