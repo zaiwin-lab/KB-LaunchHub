@@ -1,4 +1,4 @@
-# Zaiwin Kassim
+# Ts Ahmad Zaiwin bin Mohd Kassim
 
 ### AI-Enabled Digital Product Strategist · Programme Innovation Lead · Rapid MVP Builder
 
@@ -7,6 +7,13 @@ I convert operational challenges into working digital prototypes, practical plat
 Together with the **KOBIS AI Prodigy Team**, I lead solution architecture, stakeholder requirements, product direction and supervised AI-assisted delivery. The work focuses on real organisational needs: programme management, CRM, dashboards, training coordination, environmental initiatives, community platforms and digital heritage.
 
 > **Business-first. Human-directed. AI-accelerated. Impact-focused.**
+
+## Professional Foundation
+
+- **Leadership:** Chairman, KOBIS Berhad
+- **Education:** Master of Business Administration; Bachelor of Engineering in Mechatronics
+- **Focus:** Digital product strategy, programme innovation, solution architecture and responsible AI-enabled delivery
+- **Location:** Kuching, Sarawak, Malaysia
 
 ## What I Do
 
